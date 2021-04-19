@@ -1,6 +1,5 @@
 - 👋 Hi, I’m gaurav shuchi
-- 👀 I’m interested in automation
-- 🌱 I’m currently learning mobile automation
+- 🌱 I’m currently learning and working on mobile automation
 - 💞️ I’m looking to collaborate on appium tool with java
 - 📫 How to reach me  - gshuchi1024@gmail.com
 
