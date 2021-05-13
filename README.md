@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Mobile Automation of Android & iOS Mobile Apps**
 
-- 🌱 I’m currently learning **Automation Frameworks and CI/CD implementation**
+- 🌱 I’m currently learning **Automation Frameworks and its CI/CD implementation**
 
 - 👯 I’m looking to collaborate on **Mobile Automation with Appium**
 
 - 🤝 I’m looking for help with **iOS Automation**
 
-- 💬 Ask me about **Manual (Functional, Smoke, Sanity & Regression) Testing, Test Automation and Java**
+- 💬 Ask me about **Manual (Functional, Smoke/Sanity & Regression) Testing, Test Automation, APIs and Java**
 
 - 📫 How to reach me **gshuchi1024@gmail.com**
 
