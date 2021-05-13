@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gshuchi&label=Profile%20views&color=0e75b6&style=flat" alt="gshuchi" /> </p>
 
-- 🔭 I’m currently working on **Mobile Automation of Upkeep's Mobile Apps**
+- 🔭 I’m currently working on **Mobile Automation of Android & iOS Mobile Apps**
 
 - 🌱 I’m currently learning **Automation Frameworks and CI/CD implementation**
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **iOS Automation**
 
-- 💬 Ask me about **Manual (Functional, Smoke, Sanity & Regression) Testing and Java**
+- 💬 Ask me about **Manual (Functional, Smoke, Sanity & Regression) Testing, Test Automation and Java**
 
 - 📫 How to reach me **gshuchi1024@gmail.com**
 
